@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@payos/node": "^1.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch index.js",
+    "start": "node index.js"
+  }
+}
